@@ -1,0 +1,66 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        	  xmlns:tools="http://schemas.android.com/tools"
+    		  android:id="@+id/LPccExtrasTabLayout"
+              android:layout_width="fill_parent" 
+              android:layout_height="fill_parent" 
+              android:orientation="vertical"
+              android:gravity="center"
+              android:paddingTop="0dip" >
+              
+        <TextView
+            android:id="@+id/textViewDevInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#AA000000"
+            android:paddingBottom="10dip"
+            android:paddingTop="10dip"
+            android:text="@string/developer_info"
+            android:textColor="#FFFFFF"
+            android:textStyle="italic" />
+
+          <TextView
+        android:id="@+id/textViewAppVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textStyle="italic"
+        android:background="#AA000000"
+        android:paddingTop="5dip"
+        android:paddingBottom="5dip" />
+
+    <TextView android:textColor="#ffffffff"
+        android:background="#aa000000"
+        android:paddingTop="5.0dip"
+        android:paddingBottom="5.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soporte:" />
+
+    <TextView android:textColor="#ff33b5e5"
+        android:autoLink="web"
+        android:background="#aa000000"
+        android:paddingTop="3.0dip"
+        android:paddingBottom="20.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="http://www.esp-desarrolladores.com" />
+
+    <TextView android:textColor="#ffffffff"
+        android:background="#aa000000"
+        android:paddingTop="5.0dip"
+        android:paddingBottom="5.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Información Dispositivo" />
+
+        <TextView
+        android:id="@+id/textViewKernelVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:background="#AA000000"
+        android:paddingTop="0dip"
+        android:paddingBottom="20dip" />
+                      	
+</LinearLayout>

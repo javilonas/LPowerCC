@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">LPowerCC</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_main">LPowerCC</string>
+    <string name="bottom_accept">Aplicar</string>
+    <string name="bottom_decline">Descartar</string>
+    <string name="startmenu_initial">Error inesperado!</string>
+    <string name="startmenu_nokernelsupport">Lo sentimos, no hay soporte para este kernel!</string>
+    <string name="developer_info">Desarrollado por Javilonas y Grouxho</string>
+    <string name="startmenu_no_root">No hay acceso root!</string>
+    
+</resources>
