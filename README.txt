@@ -10,11 +10,12 @@
 
  Modificado por Grouxho (http://www.esp-desarrolladores.com/member.php?u=16)
  Fecha de modificación: 02.02.2014
+ 
  Añadido panel de opciones que permite generar una copia actual de tu configuración.
- Te permite restaurar la copia que quieras, te da opción de poder reinicar o reinicar y hacer Wipes.
+ Te permite restaurar la copia que quieras, te da opción de poder reiniciar o reiniciar y hacer Wipes.
 
 
- Créditos: 
+ Créditos:
  LPowerCC está basada en el código fuente de STweaks desarrollada por gokhanmoral 
  el código fuente de STweaks está disponible aquí: https://github.com/gokhanmoral/STweaks
 
